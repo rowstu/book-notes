@@ -1,8 +1,8 @@
-Summary
+# Summary
 Language builds the scaffolding of meaning. But facts can’t encapsulate the full depth of conscious life. Philosophy often goes astray by forcing language past its logical limits. Yet within its boundaries, language can illuminate experience through reason’s implicit structures. But true meaning reverberates in the unspoken chasm between what we can show, and what we can tell about it.
 
 
-At the boundary of the world
+# At the boundary of the world
 
 A central theme in Wittgenstein's Tractatus Logico-Philosophicus is that language demarcates the frontiers of meaning. As Wittgenstein famously states, “The limits of my language are the limits of my world.” In other words, whatever can be expressed in words constructs the boundaries of our knowable reality.
 
@@ -16,7 +16,7 @@ So anything exceeding language's descriptive powers falls outside knowable reali
 
 Wittgenstein's original insight on language's limits revolutionized philosophy. He exposed how traditional philosophy vainly tried to verbalize the ineffable. Fields like ethics, metaphysics, and theology transgressed the frontiers of sense. This compelled philosophy to demarcate what we can discuss versus what we must be silent about. Our world stretches only as far as we can meaningfully describe in words. The remainder persists as an unfathomable mystery, glimpsed but never grasped.
 
-What can I say?
+# What can I say?
 
 A key goal of Tractatus is to use logic and philosophy to determine what can be meaningfully said. Wittgenstein states that philosophy's purpose is the logical clarification of thoughts. It seeks to delineate sense from nonsense through rigorous logical analysis.
 
@@ -30,7 +30,7 @@ In essence, Wittgenstein's linguistic atomism argues language can only picture c
 
 Through this radical logical paring down, Wittgenstein stripped away what he considered nonsense masquerading as philosophy. In exposing language's limits, he established a new standard: philosophy should only state what can actually be stated. By respecting language's boundaries, philosophy can clarify what can be meaningfully discussed, while the rest is left unspoken.
 
-Math isn’t real
+# Math isn’t real
 
 One of Wittgenstein's most thought-provoking arguments is that mathematical equations don't describe real things. In other words, mathematical propositions don’t express factual thoughts about the world.
 
@@ -48,7 +48,7 @@ This diverges from scientists like Galileo who believed mathematics describes re
 
 In essence, Wittgenstein saw mathematics and factual language playing by different rules. Ordinary language pictures reality, while math explores abstract relations unmoored from substance. Mathematics appears universally applicable because it’s detached from material constraints, not because it reveals deeper truths than language.
 
-The mystical self
+# The mystical self
 
 Perhaps the most enigmatic argument in Tractatus is that solipsism – the view that only the self exists while the external world is an illusion – grasps at something true but can't be meaningfully articulated.
 
@@ -64,7 +64,7 @@ Wittgenstein argues that traditional philosophy goes astray when trying to expre
 
 Ultimately, he contends that solipsism gestures at mystical truths about existence that can't be articulated logically or factually. Philosophy should recognize language's boundaries rather than overreaching into obscurity.
 
-The myth of meaning
+# The myth of meaning
 
 Do virtuous actions really lead to positive outcomes? Is there some universal justice ensuring wrongs are eventually made right? Wittgenstein's philosophy implies concepts like karmic retribution are merely wishful thinking. His critique of causality suggests notions of cosmic payback and “what goes around comes around” are comforting fictions, not actual metaphysical truths.
 
@@ -80,7 +80,7 @@ Yet he still hinted that a form of ineffable subjective meaning may exist beyond
 
 So ideas like karmic causality and universal justice offer only reassuring myths that impose moral order on an underlying reality that’s likely indifferent. They describe statistically useful patterns and project hopeful narratives instead of the purposeless machinery of existence. We imaginatively mythologize order from chaos because the alternative is profoundly unsatisfying. But reality simply is.
 
-To show and not tell
+# To show and not tell
 
 One of the more thought-provoking ideas in Tractatus is that language as a symbol system can't logically define or fully capture particular colors or subjective color experiences. Wittgenstein argued that colors aren't concrete objects that propositions can accurately describe or encapsulate solely through words. We can't pin down the essence of color sensations strictly through linguistic means.
 
